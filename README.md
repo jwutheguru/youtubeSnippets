@@ -14,5 +14,5 @@ Unfortunately YouTube Snippets is not a browser plugin yet. So to use, you'll ha
  - stopRepeat() - Stop YouTube player repeating.
  - enableTrueSize() - Video will use actual video dimensions instead of filling the screen when in full screen mode.
  - disableTrueSize() - Video will fill screen in full screen mode.
- - enableAudioOnly() - Video playback is hidden (lowers GPU process and paint regions). A static poster image of the video will be shown instead.
+ - enableAudioOnly() - Hide video player (lowers GPU process and paint regions). A static poster image of the video will be shown instead.
  - disableAudioOnly() - Restore video playback and hide static poster image.
