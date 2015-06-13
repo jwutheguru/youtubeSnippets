@@ -1,7 +1,7 @@
 /**
  *  YouTube Snippets
  *  =================================
- *  A personal collection of commands to modify and enhance YouTube's video player.
+ *  A personal collection of commands to modify and enhance YouTube's video player (HTML5 Video Player Only).
  *
  *  Methods:
  *      - repeat(times)         Repeat YouTube player for specified number of times 
